@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scouting App 2</string>
+    <string name="Location">Location</string>
+    <string-array name="Gear_Location">  <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+    </string-array>
+</resources>
